@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/alego/OneDrive/Documentos/MCD/Semestre2/Programacion2/Programacion2/Challenge1\mlruns/347074431996632874/af3e108116ad4fb99de82e3423118abc/artifacts
+end_time: 1743047829996
+entry_point_name: ''
+experiment_id: '347074431996632874'
+lifecycle_stage: active
+run_id: af3e108116ad4fb99de82e3423118abc
+run_name: Training_Run
+run_uuid: af3e108116ad4fb99de82e3423118abc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743047820184
+status: 3
+tags: []
+user_id: alego
